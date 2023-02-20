@@ -1,0 +1,4 @@
+name = "mirror-k8s"
+main = "src/k8s.ts"
+compatibility_date = "2023-02-16"
+rules = [{ type = "Text", globs = ["**/*.html"] }]

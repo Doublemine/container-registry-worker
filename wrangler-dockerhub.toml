@@ -1,0 +1,4 @@
+name = "mirror-dockerhub"
+main = "src/docker.ts"
+compatibility_date = "2023-02-16"
+rules = [{ type = "Text", globs = ["**/*.html"] }]
