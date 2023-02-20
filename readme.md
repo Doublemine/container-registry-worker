@@ -61,5 +61,6 @@ $ wrangler publish --config wrangler-kubernetes.toml
 
 本项目目前支持以下容器仓库：
 
-Docker Hub：registry-1.docker.io
-Kubernetes Registry：registry.k8s.io
+ - Docker Hub：registry-1.docker.io
+
+ - Kubernetes Registry：registry.k8s.io
